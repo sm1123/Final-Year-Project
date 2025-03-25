@@ -11,7 +11,7 @@ All of my workings can be seen in this notebook: [https://colab.research.google.
 
 
 
-![image alt]([https://github.com/sm1123/Final-Year-Project/blob/830db6694cef11fbcd00b7515bce52d3166b4ebd/IMG_0437.jpeg]
+![image alt](https://github.com/sm1123/Final-Year-Project/blob/830db6694cef11fbcd00b7515bce52d3166b4ebd/IMG_0437.jpeg)
 
 
 
