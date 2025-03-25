@@ -25,6 +25,7 @@ Conclusion:
 
 Formula One has evolved as a sport since its inception in 1950 in terms of vehicle performance and driver safety. Vehicles have become safer, more reliable, more powerful and quicker than ever before. The sport has also become considerably safer. A lot of this is due to technology and its evolution. Having analysed some datasets I have gathered myself and external datasets imported from Kaggle, I can conclude that technology is indeed responsible for improving vehicle performance and driver safety within Formula One. Though it does not deserve 100% of the credit, it has directly led to a lot safer, faster, and more thrilling action as the statistics show this. 
 
+The advancements in aerodynamics, such as the introduction of wings and ground effect technology, have significantly improved the stability and speed of the cars. The development of hybrid power units has not only enhanced performance but also increased fuel efficiency, aligning with global sustainability goals. Safety innovations, including the HANS device and the halo, have been pivotal in protecting drivers from severe injuries. Moreover, the integration of advanced data analytics and AI has revolutionized race strategies and car development, allowing teams to make real-time adjustments and optimize performance. These technological strides have collectively transformed Formula One into a sport that is not only about speed but also about precision, safety, and innovation.
 
 
 Want to know more? Visit my website here: https://minihane3.wordpress.com
