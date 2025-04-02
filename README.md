@@ -9,7 +9,7 @@ I am a final year Digital Humanities & Information Technolgoy student conducting
 
 # Take a look at my data and findings here:
 
-The aim of this research and analysis is to further improve my understanding of the impact of technological evolution on vehicle performance and driver safety in Formula 1. The goal of this is to highlight key areas that have contributed to improving both of these areas in Formula 1. This data will provide new insights that will contribute to my research project.
+The aim of this research and analysis is to further improve my understanding of the impact of technological evolution on vehicle performance and driver safety in Formula 1. The goal of this is to highlight key areas that have contributed to improving both of these fields in Formula 1. This data will provide new insights that will contribute to my research project.
 
 All of my workings can be seen in this notebook: (https://colab.research.google.com/drive/1Gl0_BZrMVRdusDEmRUtQVQcriEfHV_S4?usp=sharing))
 
